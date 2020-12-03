@@ -1,0 +1,6 @@
+package com.imgpicker.app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
